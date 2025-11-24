@@ -1,6 +1,6 @@
 # Finalst
 
-# Project Name
+# Job Fair Matcher
 Job Fair Matcher
 It models real-world entities like candidates and employers, and supports operations such as sorting, scheduling, undo/redo, and navigation — all without using built-in collections or sorting methods.
 Manual record storage using arrays
